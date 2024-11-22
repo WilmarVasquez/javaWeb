@@ -1,0 +1,16 @@
+/home/alberto/NetBeansProjects/javaWeb/src/main/java/modelo/DatabaseConnector.java
+/home/alberto/NetBeansProjects/javaWeb/src/main/java/dao/VentaDAOImpl.java
+/home/alberto/NetBeansProjects/javaWeb/src/main/java/dao/CompraDAOImpl.java
+/home/alberto/NetBeansProjects/javaWeb/src/main/java/dao/UsuarioDAOImpl.java
+/home/alberto/NetBeansProjects/javaWeb/src/main/java/controlador/VentaServlet.java
+/home/alberto/NetBeansProjects/javaWeb/src/main/java/controlador/TestServlet.java
+/home/alberto/NetBeansProjects/javaWeb/src/main/java/modelo/Compra.java
+/home/alberto/NetBeansProjects/javaWeb/src/main/java/dao/CompraDAO.java
+/home/alberto/NetBeansProjects/javaWeb/src/main/java/dao/VentaDAO.java
+/home/alberto/NetBeansProjects/javaWeb/src/main/java/controlador/UsuarioServlet.java
+/home/alberto/NetBeansProjects/javaWeb/src/main/java/controlador/CompraServlet.java
+/home/alberto/NetBeansProjects/javaWeb/src/main/java/modelo/Usuario.java
+/home/alberto/NetBeansProjects/javaWeb/src/main/java/com/mycompany/javaweb/resources/JakartaEE10Resource.java
+/home/alberto/NetBeansProjects/javaWeb/src/main/java/modelo/Venta.java
+/home/alberto/NetBeansProjects/javaWeb/src/main/java/dao/UsuarioDAO.java
+/home/alberto/NetBeansProjects/javaWeb/src/main/java/com/mycompany/javaweb/JakartaRestConfiguration.java
